@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+k-means-constrained
+python-math
+more-itertools
+urllib3
+ortools==9.3.10497
+gunicorn
+Flask-HTTPAuth
+flask-restx==1.0.3
+Flask-Cors==3.0.10
